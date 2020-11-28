@@ -1,3 +1,4 @@
+# Bu bir denemedir. Github ogrenmeye calisiyorum.
 import sqlite3
 import sys
 from PyQt5.Qt import *
